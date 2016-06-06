@@ -10219,7 +10219,7 @@ fieldset[disabled] .btn-teal-bg-anim {
   line-height: 1.4;
   color: #fff;
   text-align: center;
-  background: #4fd2c2;
+  background: #8CC63F;
   background-image: none;
   border-width: 0;
   border-style: solid;
@@ -10247,13 +10247,13 @@ fieldset[disabled] .btn-teal-bg-anim {
 
 .btn-green-bg-anim:hover, .btn-green-bg-anim:focus, .btn-green-bg-anim.focus {
   color: #fff;
-  background: #6edfd1;
+  background: #8CC63F;
   border-color: transparent;
   text-decoration: none;
 }
 
 .btn-green-bg-anim:after, .btn-green-bg-anim:before {
-  background: #3bcdbb;
+  background: #8CC63F;
 }
 
 .btn-green-bg-anim:active, .btn-green-bg-anim.active {
@@ -22420,7 +22420,7 @@ input[type="checkbox"]:not(.sr-only)&:checked ~ label:before, input[type="radio"
 .banner-img-v11 {
   position: relative;
   z-index: 1;
-  background: url(../../assets/img/1920x1080/40.jpg) no-repeat;
+  background: url(../../assets/img/1920x1080/splash-background.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
