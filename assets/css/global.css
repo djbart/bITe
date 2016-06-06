@@ -8168,7 +8168,7 @@ fieldset[disabled] .btn-base-bg-slide {
   position: relative;
   display: inline-block;
   line-height: 1.4;
-  color: #34343c;
+  color: #fff;
   text-align: center;
   background: #fff;
   background-image: none;
@@ -26385,7 +26385,7 @@ input[type="checkbox"]:not(.sr-only)&:checked ~ label:before, input[type="radio"
 .testimonials-v7 {
   position: relative;
   z-index: 1;
-  background: url(../../assets/img/1920x1080/08.jpg) no-repeat;
+  background: url(../../assets/img/1920x1080/values.jpg) no-repeat;
   background-size: cover;
   background-position: 50% 0%;
 }

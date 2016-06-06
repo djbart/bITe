@@ -262,7 +262,7 @@ h1 > a:hover, h2 > a:hover, h3 > a:hover, h4 > a:hover, h5 > a:hover, h6 > a:hov
 .op-b-banner-img-v2 {
   position: relative;
   z-index: 1;
-  background: url(../../assets/img/1920x1080/05.jpg) no-repeat;
+  background: url(../../assets/img/1920x1080/contact.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
