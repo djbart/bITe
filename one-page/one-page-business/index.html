@@ -425,14 +425,17 @@
                 <!-- Comment Form v1 -->
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2">
-                        <form id="comment-form" class="comment-form-v1 comment-form-error center-block" action="index.html" method="get">
+                        <form id="comment-form" class="comment-form-v1 comment-form-error center-block" action="https://formspree.io/info@bite.be" method="POST">
+                            <input type="hidden" name="_subject" value="Message via the bITe website" />
+                            <input type="text" name="_gotcha" style="display:none" />
+                            <input type="hidden" name="_next" value="http://www.bite.be" />
                             <div class="margin-b-20">
                                 <label class="font-size-18 font-style-italic fweight-400 font-family-lora color-white">Email Address</label>
                                 <input type="email" class="form-control comment-form-v1-input text-center" placeholder="Email Address" name="email" required>
                             </div>
                             <div class="margin-b-30">
                                 <label class="font-size-18 font-style-italic fweight-400 font-family-lora color-white">Your Message</label>
-                                <textarea class="form-control comment-form-v1-input text-center" rows="6" placeholder="Your message" name="textarea" required></textarea>
+                                <textarea class="form-control comment-form-v1-input text-center" rows="6" placeholder="Your message" name="question" required></textarea>
                             </div>
                             <div class="center-block">
                                 <button type="submit" class="btn-base-bg btn-base-md btn-block radius-3">Send</button>
