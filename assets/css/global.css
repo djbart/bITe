@@ -20259,9 +20259,6 @@ input[type="checkbox"]:not(.sr-only)&:checked ~ label:before, input[type="radio"
   position: absolute;
   top: 0;
   left: 0;
-  transition-duration: 300ms;
-  transition-property: all;
-  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
 .clients-v1 .clients-v1-item .clients-v1-img-active {
@@ -20269,9 +20266,6 @@ input[type="checkbox"]:not(.sr-only)&:checked ~ label:before, input[type="radio"
   position: absolute;
   top: -100%;
   left: 0;
-  transition-duration: 300ms;
-  transition-property: all;
-  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
 .clients-v1 .clients-v1-item:hover .clients-v1-img-default {
@@ -20279,9 +20273,6 @@ input[type="checkbox"]:not(.sr-only)&:checked ~ label:before, input[type="radio"
   position: absolute;
   top: 100%;
   left: 0;
-  transition-duration: 300ms;
-  transition-property: all;
-  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
 .clients-v1 .clients-v1-item:hover .clients-v1-img-active {
@@ -20289,9 +20280,6 @@ input[type="checkbox"]:not(.sr-only)&:checked ~ label:before, input[type="radio"
   position: absolute;
   top: 0;
   left: 0;
-  transition-duration: 300ms;
-  transition-property: all;
-  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
 /*--------------------------------------------------
